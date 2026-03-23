@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Associate"
 collection: teaching
-type: "Various Courses"
+type: "School of Earth Sciences"
 permalink: /teaching/gta
 date: 2026-01-01
 venue: "The Ohio State University"
