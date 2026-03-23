@@ -23,13 +23,13 @@ repository               : "weber1158/weber1158.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "A. M. Weber"
+  avatar           : "profile.jpg"
+  name             : "Austin M. Weber"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
+  bio              : "Ph.D. Candidate (Earth Sciences)"
   location         : "Columbus, Ohio"
   employer         : "The Ohio State University"
-  uri              : # URL
+  uri              : "https://byrd.osu.edu/people/weber.1158"
   email            : "weber.1158@osu.edu" 
 
   # Academic websites
