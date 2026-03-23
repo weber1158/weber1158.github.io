@@ -1,8 +1,9 @@
 ---
 title: "Graduate Teaching Associate"
 collection: teaching
-type: #"Undergraduate/Graduate courses"
+type: "Various Courses"
 permalink: /teaching/gta
+date: 2026-01-01
 venue: "The Ohio State University"
 location: "Columbus, Ohio"
 ---
