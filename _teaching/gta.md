@@ -4,7 +4,6 @@ collection: teaching
 type: #"Undergraduate/Graduate courses"
 permalink: /teaching/gta
 venue: "The Ohio State University"
-date: #"2021-08-01"
 location: "Columbus, Ohio"
 ---
 
