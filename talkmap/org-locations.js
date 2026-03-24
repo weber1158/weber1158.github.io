@@ -1,22 +1,32 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "A 20,000 year history of mineral dust in a Peruvian ice core<br />Mineralogical Society of America Annual Meeting; Tucson, Arizona",
+    32.2228765,
+    -110.974847
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Fast and accurate identification of minerals in ice cores<br />U.S. Ice Core Community Meeting; Minneapolis-St. Paul, Minnesota",
+    44.9713953,
+    -93.2083163
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Algorithms for mineral dust classification for SEM-EDS<br />Annual Goldschmidt Conference; Chicago, Illinois",
+    41.8755616,
+    -87.6244212
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Using titanite (sphene) to determine the magmatic thermal histories of granites<br />Kentucky Academy of Science Annual Meeting; Berea, Kentucky",
+    37.568694,
+    -84.2963224
+  ],
+  [
+    "In-situ characterization of dust nodules in ice cores from the Tibetan Plateau<br />Microscopy and Microanalysis Conference; Salt Lake City, Utah",
+    40.7596198,
+    -111.886797
+  ],
+  [
+    "Drivers of \u03b4<sup>18</sup>O variability preserved in ice cores from Earth's highest tropical mountain<br />Interdisciplinary Water Research Symposium hosted by Ohio State University; Columbus, Ohio",
+    39.9622601,
+    -83.0007065
   ]
 ];
