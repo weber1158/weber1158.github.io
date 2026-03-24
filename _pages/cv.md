@@ -54,6 +54,36 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards and Honors
+======
+**2025** - Friends of Orton Hall Ph.D. Research Grant for Ice Core Mineral Dust Analysis ($4,159) 
+
+**2025** - Wiley Top Viewed Article Recognition for article ranked within the top 10% of most-viewed papers published in 2023. 
+
+**2024** - Michael Johnson Graduate Student Award – Outstanding PhD Candidate Starting Research 
+
+**2023** - School of Earth Sciences Orton Distinguished Service Award for Excellence in Research and Outreach  
+
+**2022** - School of Earth Sciences Orton Distinguished Service Award for Excellence in Research and Outreach 
+
+**2021** - Friends of Orton Hall Research Grant for Electron Microscopy ($4,060) 
+
+**2020** - University Fellowship, Awarded by the Graduate School at The Ohio State University 
+
+**2020** - Berea College Chemistry Department Class of 1958 Research Excellence Award
+
+**2019** - Natural History Research Experience (NHRE) Internship, Smithsonian Institution, Washington, DC
+
+**2019** - KBRIN Summer Research at the University of Louisville (accepted NHRE offer instead)
+
+**2019** - 1st Place Poster Presentation in Geology, Kentucky Academy of Sciences Annual Meeting
+
+**2019** - 3rd Place Men's Javelin, NCAA Division III USA South Conference Championships
+
+**2016** - Berea College No Tuition-Promise Scholarship ($120,000)
+
+**2015** - Cincinnati Mercantile Library Timothy Crane Day Award for Creative Writing
   
 Service and leadership
 ======
