@@ -15,7 +15,7 @@ Education
 * M.S. in Earth Sciences, The Ohio State University, 2022
 * B.A. in Chemistry, Berea College, 2020
 
-Work experience
+Professional Appointments
 ======
 * Fall 2021 - present: Graduate Research Associate
   * Byrd Polar and Climate Research Center, The Ohio State University
@@ -94,3 +94,29 @@ Service and leadership
 * Led a field work-inspired survival game at "Climate Chronicles: An Interactive Exhibit" at the Ohio Union.
 * Assisted with the Byrd Polar and Climate Research Center Outreach Booth at the 2023 Ohio State Fair.
 * Volunteer at the 2024 Central Ohio Mineral, Fossil, Gem, and Jewelry Show.
+
+Software
+======
+**2025** - **SNICARv3** [Contributor]. The Snow, Ice, and Aerosol Radiative model (SNICAR). Developed a graphical user interface (GUI) and functions to help users run the model locally in the MATLAB environment. https://github.com/mflanner/SNICARv3
+
+**2025** - **EDS Classification**. MATLAB and Julia algorithms for identifying minerals in SEM-EDS data. The repository also includes functions for reading and visualizng x-ray spectral data and extracting metadata from SEM images. https://github.com/weber1158/eds-classification
+
+**2025** - **netIntensity.py**. A "Jython" script (Python2 implemented in Java) for evaluating the net intensities of common mineral-forming elements from EDS spectra in the NIST software DTSA-II. https://github.com/weber1158/netIntensity.py
+
+**2025** - **Colordle**. A color guessing game inspired by the New York Times game Wordle. https://github.com/weber1158/colordle
+
+**2025** - **cd2**. A MATLAB function for changing the current folder. Calling `cd2()` opens a dropdown menu for users to choose from a list of favorite folders instead of requiring the user to manually input the full name of the folder path. https://github.com/weber1158/cd2
+
+**2025** - **PDS**. A graphical user interface (GUI) for working with the NCEI Paleo Data Search API in MATLAB. https://github.com/weber1158/pds
+
+**2024** - **Core Stratigraphy Visualization**. Repository of functions for making beautiful representations of ice, sediment, and rock cores. https://github.com/weber1158/core-plot
+
+**2024** - **MATLAB Particle Size Functions**. Repository of particle size functions written in MATLAB for evaluating log-normalized particle concentrations, converting particle diameter sizes from metric units to the phi "φ" scale (and vice-versa), and classifying particle sizes according to the Wentworth Scale. https://github.com/weber1158/MATLAB-particle-size-functions
+
+**2024** - **Dracula**. Implementation of the popular Dracula dark theme in MATLAB, specifically for converting figures into the Dracula theme. https://github.com/weber1158/dracula
+
+**2024** - **groupedSpacedBoxchart**. A modified version of the MATLAB function `boxchart` that allows the user to create grouped box charts with added spacing between the groups. https://www.mathworks.com/matlabcentral/fileexchange/166461
+
+**2024** - **radialhistogram**. A function for visualizing categorical data in polar coordinates in MATLAB. https://www.mathworks.com/matlabcentral/fileexchange/157796
+
+**2023** - **ByrdDIT**. The Byrd Data Import Tool: an easy-to-use MATLAB app designed for quickly downloading datasets published by the Byrd Polar and Climate Research Center's ice core paleoclimatology group. https://github.com/weber1158/ByrdDIT
