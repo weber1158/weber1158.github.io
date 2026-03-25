@@ -20,12 +20,12 @@ Professional Appointments
 * Fall 2021 - present: Graduate Research Associate
   * Byrd Polar and Climate Research Center, The Ohio State University
   * Responsibilities: Conduct research relating to ice core paleoclimatology; communicate findings through conference presentations and peer-review publications; develop software for data visualization and quantitative analysis; field work at the Quelccaya Ice Cap (Peru)
-  * Supervisor: Lonnie G. Thompson, Ph.D.
+  * Supervisor: [Lonnie G. Thompson](https://byrd.osu.edu/people/thompson.3), Ph.D.
 
 * Summer 2019: Natural History Research Experience Intern
   * Smithsonian Institution, Washington, DC
   * Responsibilities: Conduct mineralogical research on the magmatic thermal histories of granites; utilize microanalytical techniques such as EPMA, SEM-EDS, and micro-CT; field work in the Mt. Princeton batholith and San Juan volcanic field (southwestern Colorado)
-  * Supervisor: Michael R. Ackerson, Ph.D.
+  * Supervisor: [Michael R. Ackerson](https://profiles.si.edu/display/nAckersonM1172018), Ph.D.
   
 Skills
 ======
@@ -120,3 +120,29 @@ Software
 **2024** - **radialhistogram**. A function for visualizing categorical data in polar coordinates in MATLAB. [https://www.mathworks.com/matlabcentral/fileexchange/157796](https://www.mathworks.com/matlabcentral/fileexchange/157796)
 
 **2023** - **ByrdDIT**. The Byrd Data Import Tool: an easy-to-use MATLAB app designed for quickly downloading datasets published by the Byrd Polar and Climate Research Center's ice core paleoclimatology group. [https://github.com/weber1158/ByrdDIT](https://github.com/weber1158/ByrdDIT)
+
+Theses and Dissertations
+======
+2. **Weber, A. M.** "Mineral Dust in the Huascarán Ice Cores" (in press). [Ph.D. Dissertation] The Ohio State University.
+1. **Weber, A. M.** "Amazonian influences on the hydrological and mineralogical signals preserved in an ice core from the Cordillera Blanca, Peru" (2022). [M.S. Thesis]. The Ohio State University.
+
+Field Work
+======
+**2023 - Quelccaya Ice Cap, Peru** (5676 m a.s.l.). Objectives included (i) the collection of recently exposed plant material along the margins of the ice cap for carbon dating, (ii) drilling firn cores from the Quelccaya summit, and (iii) collecting snow surface samples for microbial, DNA, and RNA analyses. Byrd Polar and Climate Research Center.
+
+**2019 - Rocky Mountains, Colorado, USA** (~4000 m a.s.l.). Rock sampling from the Mt. Princeton batholith (granodiorite) and the San Juan volcanic field (Fish Canyon tuff). Department of Mineral Science, Smithsonian Institution.
+
+Selected Coursework
+======
+*Graduate*
+
+Advanced Oceanography · Ecohydrology, Elemental Chemical Analysis using ICP-Optical Emission and Mass Spectrometry · Geomorphology · Glaciology · Intro to Geochemistry · Machine Learning and Artificial Intelligence in Earth Sciences · Paleoclimatology · Scanning Electron Microscopy · Seminar in Glaciology and Geomorphology · Seminar in Hyrdoclimatology · Seminar in Stratigraphy (Field course; Guadalupe Mtns., TX) · Stratigraphy and Sedimentation · Weather, Climate, and Global Warming
+
+*Undergraduate*
+
+Advanced Chromatography · Advanced Spectroscopy · Advanced Nuclear Magnetic Resonance (NMR) Spectroscopy · Advanced Organic Synthesis · Analytical Chemistry · Biochemistry I & II · Calculus I & II · Cell & Molecular Biology · Inorganic Chemistry · Mineralogy · Organic Chemistry I & II · Physics I & II
+
+Languages
+======
+* English (native speaker)
+* Mandarin Chinese (Duolingo, 100% course completion 2020-2022)
