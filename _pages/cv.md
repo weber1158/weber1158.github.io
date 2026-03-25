@@ -123,7 +123,7 @@ Software
 
 Theses and Dissertations
 ======
-2. **Weber, A. M.** "Mineral Dust in the Huascarán Ice Cores" (in press). [Ph.D. Dissertation] The Ohio State University.
+2. **Weber, A. M.** "Mineral Dust in the Huascarán Ice Cores" (in progress). [Ph.D. Dissertation] The Ohio State University.
 1. **Weber, A. M.** "Amazonian influences on the hydrological and mineralogical signals preserved in an ice core from the Cordillera Blanca, Peru" (2022). [M.S. Thesis]. The Ohio State University.
 
 Field Work
@@ -136,7 +136,7 @@ Selected Coursework
 ======
 *Graduate*
 
-Advanced Oceanography · Ecohydrology, Elemental Chemical Analysis using ICP-Optical Emission and Mass Spectrometry · Geomorphology · Glaciology · Intro to Geochemistry · Machine Learning and Artificial Intelligence in Earth Sciences · Paleoclimatology · Scanning Electron Microscopy · Seminar in Glaciology and Geomorphology · Seminar in Hyrdoclimatology · Seminar in Stratigraphy (Field course; Guadalupe Mtns., TX) · Stratigraphy and Sedimentation · Weather, Climate, and Global Warming
+Advanced Oceanography · Ecohydrology · Elemental Chemical Analysis using ICP-Optical Emission and Mass Spectrometry · Geomorphology · Glaciology · Intro to Geochemistry · Machine Learning and Artificial Intelligence in Earth Sciences · Paleoclimatology · Scanning Electron Microscopy · Seminar in Glaciology and Geomorphology · Seminar in Hyrdoclimatology · Seminar in Stratigraphy (Field course; Guadalupe Mtns., TX) · Stratigraphy and Sedimentation · Weather, Climate, and Global Warming
 
 *Undergraduate*
 
