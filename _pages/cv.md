@@ -63,6 +63,8 @@ Awards and Honors
 
 **2024** - Michael Johnson Graduate Student Award – Outstanding PhD Candidate Starting Research 
 
+**2023** - Distinguised Graduate Teaching Award for Excellence in Classroom Teaching, School of Earth Sciences
+
 **2023** - School of Earth Sciences Orton Distinguished Service Award for Excellence in Research and Outreach  
 
 **2022** - School of Earth Sciences Orton Distinguished Service Award for Excellence in Research and Outreach 
@@ -123,7 +125,7 @@ Software
 
 Theses and Dissertations
 ======
-2. **Weber, A. M.** "Mineral Dust in the Huascarán Ice Cores" (in progress). [Ph.D. Dissertation] The Ohio State University.
+2. **Weber, A. M.** "Mineral Dust in the Huascarán Ice Cores" (in progress). [Ph.D. Dissertation]. The Ohio State University.
 1. **Weber, A. M.** "Amazonian influences on the hydrological and mineralogical signals preserved in an ice core from the Cordillera Blanca, Peru" (2022). [M.S. Thesis]. The Ohio State University.
 
 Field Work
