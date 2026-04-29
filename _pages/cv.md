@@ -57,6 +57,8 @@ Teaching
 
 Awards and Honors
 ======
+**2026** - Spieker Book Award - Outstanding Graduating PhD Student in Earth Sciences
+
 **2025** - Friends of Orton Hall Ph.D. Research Grant for Ice Core Mineral Dust Analysis ($4,159) 
 
 **2025** - Wiley Top Viewed Article Recognition for article ranked within the top 10% of most-viewed papers published in 2023. 
