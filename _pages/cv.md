@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Earth Sciences, The Ohio State University, 2026 (expected)
+* Ph.D. in Earth Sciences, The Ohio State University, 2026
 * M.S. in Earth Sciences, The Ohio State University, 2022
 * B.A. in Chemistry, Berea College, 2020
 
@@ -57,7 +57,7 @@ Teaching
 
 Awards and Honors
 ======
-**2026** - Spieker Book Award - Outstanding Graduating PhD Student in Earth Sciences
+**2026** - Spieker Book Award - Distinguished Graduating PhD Student in Earth Sciences
 
 **2025** - Friends of Orton Hall Ph.D. Research Grant for Ice Core Mineral Dust Analysis ($4,159) 
 
