@@ -101,6 +101,8 @@ Service and leadership
 
 Software
 ======
+**2026** - **ByrdDIT v4.0**. The Byrd Data Import Tool: an easy-to-use MATLAB app designed for quickly downloading datasets published by the Byrd Polar and Climate Research Center's ice core paleoclimatology group. [https://github.com/weber1158/ByrdDIT](https://github.com/weber1158/ByrdDIT)
+
 **2026** - **StokesSimulator**. GUI application for simulating the settling velocities of particles in the atmosphere using a Stokes' Law approximation. Dynamically adjust parameters such as elevation, mineralogy, and aspect ratio to visualize how gravitational settling changes under different scenarios. [https://github.com/weber1158/StokesSimulator](https://github.com/weber1158/StokesSimulator)
 
 **2025** - **SNICARv3** [Contributor]. The Snow, Ice, and Aerosol Radiative model (SNICAR). Developed a graphical user interface (GUI) and functions to help users run the model locally in the MATLAB environment. [https://github.com/mflanner/SNICARv3](https://github.com/mflanner/SNICARv3)
@@ -124,8 +126,6 @@ Software
 **2024** - **groupedSpacedBoxchart**. A modified version of the MATLAB function `boxchart` that allows the user to create grouped box charts with added spacing between the groups. [https://www.mathworks.com/matlabcentral/fileexchange/166461](https://www.mathworks.com/matlabcentral/fileexchange/166461)
 
 **2024** - **radialhistogram**. A function for visualizing categorical data in polar coordinates in MATLAB. [https://www.mathworks.com/matlabcentral/fileexchange/157796](https://www.mathworks.com/matlabcentral/fileexchange/157796)
-
-**2023** - **ByrdDIT**. The Byrd Data Import Tool: an easy-to-use MATLAB app designed for quickly downloading datasets published by the Byrd Polar and Climate Research Center's ice core paleoclimatology group. [https://github.com/weber1158/ByrdDIT](https://github.com/weber1158/ByrdDIT)
 
 Theses and Dissertations
 ======
