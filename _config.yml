@@ -23,7 +23,7 @@ repository               : "weber1158/weber1158.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_headshot.png"
+  avatar           : "profile.png"
   name             : "Austin M. Weber"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Earth Sciences"
