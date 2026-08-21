@@ -17,7 +17,7 @@ Education
 
 Professional Appointments
 ======
-* Fall 2021 - present: Graduate Research Associate
+* Fall 2021 - present: Graduate Research Associate / Postdoctoral Scholar (since June 2026)
   * Byrd Polar and Climate Research Center, The Ohio State University
   * Responsibilities: Conduct research relating to ice core paleoclimatology; communicate findings through conference presentations and peer-review publications; develop software for data visualization and quantitative analysis; field work at the Quelccaya Ice Cap (Peru)
   * Supervisor: [Lonnie G. Thompson](https://byrd.osu.edu/people/thompson.3), Ph.D.
