@@ -29,12 +29,12 @@ Professional Appointments
   
 Skills
 ======
-* Programming (MATLAB, Python, Julia, C++)
-* Ice core paleoclimatology
-* Machine Learning
+* Electron microscopy
+* Programming and software development (MATLAB, Python, Julia, C++)
+* Machine learning
+* Image processing
+* Ice core paleoclimatology and analytical chemistry
 * Geospatial analysis (QGIS, Google Earth Engine)
-* Image Processing
-* Analytical chemistry
 * Technical writing and communication (Word, LaTeX, Markdown)
 
 Publications
@@ -101,13 +101,13 @@ Service and leadership
 
 Software
 ======
-**2026** - **ByrdDIT v4.0**. The Byrd Data Import Tool: an easy-to-use MATLAB app designed for quickly downloading datasets published by the Byrd Polar and Climate Research Center's ice core paleoclimatology group. [https://github.com/weber1158/ByrdDIT](https://github.com/weber1158/ByrdDIT)
+**2024-present** - **EDS Classification**. MATLAB and Julia algorithms for identifying minerals in SEM-EDS data. The repository also includes functions for reading and visualizng x-ray spectral data and extracting metadata from SEM images. [https://github.com/weber1158/eds-classification](https://github.com/weber1158/eds-classification)
+
+**2025-present** - **SNICARv3** [Contributor]. The Snow, Ice, and Aerosol Radiative model (SNICAR). Developed a graphical user interface (GUI) and functions to help users run the model locally in the MATLAB environment. [https://github.com/mflanner/SNICARv3](https://github.com/mflanner/SNICARv3)
+
+**2023-present** - **ByrdDIT v4.0**. The Byrd Data Import Tool: an easy-to-use MATLAB app designed for quickly downloading datasets published by the Byrd Polar and Climate Research Center's ice core paleoclimatology group. [https://github.com/weber1158/ByrdDIT](https://github.com/weber1158/ByrdDIT)
 
 **2026** - **StokesSimulator**. GUI application for simulating the settling velocities of particles in the atmosphere using a Stokes' Law approximation. Dynamically adjust parameters such as elevation, mineralogy, and aspect ratio to visualize how gravitational settling changes under different scenarios. [https://github.com/weber1158/StokesSimulator](https://github.com/weber1158/StokesSimulator)
-
-**2025** - **SNICARv3** [Contributor]. The Snow, Ice, and Aerosol Radiative model (SNICAR). Developed a graphical user interface (GUI) and functions to help users run the model locally in the MATLAB environment. [https://github.com/mflanner/SNICARv3](https://github.com/mflanner/SNICARv3)
-
-**2025** - **EDS Classification**. MATLAB and Julia algorithms for identifying minerals in SEM-EDS data. The repository also includes functions for reading and visualizng x-ray spectral data and extracting metadata from SEM images. [https://github.com/weber1158/eds-classification](https://github.com/weber1158/eds-classification)
 
 **2025** - **netIntensity.py**. A "Jython" script (Python2 implemented in Java) for evaluating the net intensities of common mineral-forming elements from EDS spectra in the NIST software DTSA-II. [https://github.com/weber1158/netIntensity.py](https://github.com/weber1158/netIntensity.py)
 
