@@ -107,6 +107,8 @@ Software
 
 **2023-present** - **ByrdDIT v4.0**. The Byrd Data Import Tool: an easy-to-use MATLAB app designed for quickly downloading datasets published by the Byrd Polar and Climate Research Center's ice core paleoclimatology group. [https://github.com/weber1158/ByrdDIT](https://github.com/weber1158/ByrdDIT)
 
+**2026** - **qap_diagram**. A MATLAB function designed to work with alchemyst/ternplot ([Sandrock, 2026](https://github.com/alchemyst/ternplot/)) that constructs a QAP (quartz, alkali feldspar, plagioclase) ternary diagram for plotting igneous rock compositions. The project fork is available on GitHub. [https://github.com/weber1158/ternplot/](https://github.com/weber1158/ternplot/)
+
 **2026** - **StokesSimulator**. GUI application for simulating the settling velocities of particles in the atmosphere using a Stokes' Law approximation. Dynamically adjust parameters such as elevation, mineralogy, and aspect ratio to visualize how gravitational settling changes under different scenarios. [https://github.com/weber1158/StokesSimulator](https://github.com/weber1158/StokesSimulator)
 
 **2025** - **netIntensity.py**. A "Jython" script (Python2 implemented in Java) for evaluating the net intensities of common mineral-forming elements from EDS spectra in the NIST software DTSA-II. [https://github.com/weber1158/netIntensity.py](https://github.com/weber1158/netIntensity.py)
